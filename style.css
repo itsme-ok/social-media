@@ -71,25 +71,5 @@ body {
   padding-left: 10px;
   background-color: #EF5350;
 }
-.networks .button {
-  text-decoration: none;
-  background-color: #444;
-  
-  color: #EF5350;
- 
-  display: inline-block;
-  font-size: 0.7em;
-  padding: 6px;
-  transition: 0.35s;
-  position: absolute;
-  border-radius: 12px;
-  bottom: 200px;
-  right: 550px;
-  
-}
-.networks .button:hover {
-  text-decoration: none;
-  background-color: #FFE082;
-  border-color: #FFE082;
-    color: #444;}
+
 

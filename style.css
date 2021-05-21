@@ -75,10 +75,11 @@ body {
   text-decoration: none;
   background-color: rgba(236, 229, 167, 0.2);
   
-  color: #fff;
+  color: #444;
+ 
   display: inline-block;
-  font-size: 1em;
-  padding: 4px;
+  font-size: 0.7em;
+  padding: 2px;
   transition: 0.35s;
   position: absolute;
   bottom: 10px;
@@ -87,6 +88,7 @@ body {
 }
 .button:hover {
   text-decoration: none;
-  background-color: white;
-  border-color: white;
-    color: black;}
+  background-color: #FFE082;
+  border-color: #FFE082;
+    color: #444;}
+
